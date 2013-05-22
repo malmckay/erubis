@@ -347,7 +347,3 @@ else                                           ###  Rails 1.X
 
 end   ###
 
-
-## finish
-ActionController::Base.new.logger.info "** Erubis #{::Erubis::VERSION}"
-$stdout.puts "** Erubis #{::Erubis::VERSION}" if rails22
