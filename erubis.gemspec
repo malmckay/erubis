@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 
 ###
-### $Release: $
+### Release: 2.7.0
 ### $Copyright$
 ###
 
@@ -12,7 +12,7 @@ spec = Gem::Specification.new do |s|
   s.name        = "erubis"
   s.author      = "makoto kuwata"
   s.email       = "kwa(at)kuwata-lab.com"
-  s.version     = "$Release$"
+  s.version     = "2.7.0"
   s.platform    = Gem::Platform::RUBY
   s.homepage    = "http://www.kuwata-lab.com/erubis/"
   s.summary     = "a fast and extensible eRuby implementation which supports multi-language"
